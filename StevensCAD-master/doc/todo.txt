@@ -1,0 +1,48 @@
+GUI
+	fix Chinese on non-Chinese systems?
+	insert polyhedron        (Yang)
+	convex hull                    
+	load/save serializable                (Yifan)
+	load/save native format
+	import/export STL                   (Yifan)
+	generate custom shape and add to menu    (Long Huang)
+	extrusions                                    (Minghui)
+	set colors/style for
+	    selected object		Guangqi
+	    cut/copy/past
+	interactive click
+		    to create bezier
+		    to move objects
+		    key/mouse click events
+	display key/mouse bindings
+	Information messages	(internationalized
+	
+general path in 3-space
+	line
+	bezier segments
+	spline
+
+general surfaces in 3-space
+	bezier path
+	spline path
+	extrude surface to create shell
+
+geometry
+	convex hull                 Fadi
+	binary operations
+	generalizing binary operations
+
+Testing
+	Creation of a standard set of unit tests
+	Test paddle
+
+Website
+	Project information
+	Bio
+
+
+cleanup
+    remove multiple copies of processing libraries (lib and processingLib)
+
+	
+

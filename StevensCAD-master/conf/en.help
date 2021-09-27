@@ -1,0 +1,7 @@
+INSERT_POLYHEDRON   
+Create vectors for each facet. Each
+vector requires three double precision values: x, y, z. Each facet
+requires either 3 or 4 vectors. If
+only 3 vectors areeither 3 or 4 
+vectors. If only 3 vectors used, leave vector 4 empty.
+
